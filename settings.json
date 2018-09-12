@@ -1,8 +1,11 @@
 // Place your settings in this file to overwrite the default settings
 {
     "editor.autoClosingBrackets": false,
-    "editor.renderWhitespace": true,
+    "editor.renderWhitespace": "all",
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorTheme": "Solarized Light",
+    "window.zoomLevel": 0,
+    "extensions.ignoreRecommendations": true
 }
